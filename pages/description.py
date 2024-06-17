@@ -19,7 +19,7 @@ st.header('🌻✨IMAGE CLASSIFICATION𓍢ִ໋🌷͙֒✧˚ ༘ ⋆｡')
 st.image("./pict/l4.jfif")
 
 
-with st.expander("ROOM IMAGE CLASSIFICATION"):
+with st.expander("🌻🌷IMAGE CLASSIFICATION"):
     st.markdown("""
     #
                 This app uses machine learning models trained on a dataset from Kaggle to decide if a room in a picture is clean or messy. The models are saved as pickled files and included in a Streamlit web interface for simple setup.
